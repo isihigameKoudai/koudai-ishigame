@@ -34,10 +34,15 @@
 
 ## BasicEnv   
 - Soft ware
+  - Github
+  - Gitlab
   - slack
   - postman
   - vscode
-  
+  - Photoshop
+  - Lightroom
+  - XD
+ 
 - Execution env
   - nodebrew
   - Node.js
