@@ -38,6 +38,7 @@
   - Gitlab
   - slack
   - postman
+  - fork
   - vscode
   - Photoshop
   - Lightroom
