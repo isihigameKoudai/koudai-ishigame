@@ -3,6 +3,23 @@
 ## features   
 - ストレングスファインダー （収集心　最上志向　慎重さ　学習欲　着想）
 
+## sense of values
+-「強み」「得意なこと」「天性（先天後天問わず）」などを活かすこと
+- アウトプットすること
+- 与えよさらば与えられん
+
+## strong point
+- 専門的な知識・たくさんの情報を、わかりやすく翻訳したり噛み砕いたりして体系化すること、そしてそれらを伝えること
+- 抽象化
+- 知識の内省
+- クリエイティブ
+- 没頭すること
+
+## weak point
+- アドリブ、即時性の求められるコミュニケーション
+- マルチタスク
+- 記憶力
+
 ## skills
 - HTML
 - CSS
@@ -13,7 +30,10 @@
 - Vue.js
 - Nuxt.js
 - express
+- mongoDB
+- OOCSS
 - FLOCSS
+- BEM
 - Atomic Design
 - UX
 - Netlify
@@ -28,9 +48,6 @@
 - Next.js
 - GraphQL
 - python
-
-## job and actions
-- AsiaQuest フロントエンドエンジニア 201704~
 
 ## BasicEnv   
 - Soft ware
@@ -77,3 +94,8 @@
   - HTML Snippets
   - HTML CSS Class Completion
   - HTMLHint
+  
+  ## job and actions
+- AsiaQuest フロントエンドエンジニア 201704~
+- Bright&dizain フロントエンドエンジニア、フォトグラファー、アートディレクター 201802~
+
