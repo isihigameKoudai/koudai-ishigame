@@ -94,6 +94,9 @@
   - HTML Snippets
   - HTML CSS Class Completion
   - HTMLHint
+  - Bracket Pair Colorizer
+  - Slack theme
+
   
   ## job and actions
 - AsiaQuest フロントエンドエンジニア 201704~
