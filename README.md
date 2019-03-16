@@ -3,6 +3,9 @@
 ## features   
 - ストレングスファインダー （収集心　最上志向　慎重さ　学習欲　着想）
 
+## Highest Value
+クリエイティブ
+
 ## sense of values
 -「強み」「得意なこと」「天性（先天後天問わず）」などを活かすこと
 - アウトプットすること
@@ -22,18 +25,16 @@
 
 ## skills
 - HTML
-- CSS
+- CSS, Sass/Scss, Less
 - javascript(es5, es6)
 - Node.js
 - Swift
 - C
 - Vue.js
 - Nuxt.js
-- express
-- mongoDB
-- OOCSS
-- FLOCSS
-- BEM
+- Express
+- MongoDB
+- OOCSS,FLOCSS,BEM
 - Atomic Design
 - UX
 - Netlify
@@ -63,6 +64,7 @@
  
 - Execution env
   - nodebrew
+  - avn
   - Node.js
   - npm
   - mongo
