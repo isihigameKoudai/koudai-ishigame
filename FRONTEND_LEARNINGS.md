@@ -34,8 +34,7 @@
 ## Vue.js and mores
 |タイトル|URL|
 |--------|---------------------|
-|基礎から学ぶ Vue.js（書籍）
-| https://www.amazon.co.jp/%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6-Vue-js-mio/dp/4863542453/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=GD023QRE0D3FQJCJJ9RZ |
+|基礎から学ぶ Vue.js（書籍）| https://www.amazon.co.jp/%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6-Vue-js-mio/dp/4863542453/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=GD023QRE0D3FQJCJJ9RZ|
 |jQuery から Vue.js へのステップアップ|https://qiita.com/mio3io/items/e7b2596d06b8005e8e6f|
 |Vue.js|https://jp.vuejs.org/v2/guide/|
 |Vuex|https://vuex.vuejs.org/ja/|
