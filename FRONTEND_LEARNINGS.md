@@ -9,6 +9,7 @@
 ## Basics of Tecks
 フロントエンドをやっていくにあたって基本的な事項や事前に見ておくと後々役立つ記事を集めてみました。<br>
 経験者の方も未定おくと良い復習や気づきがあると思います。
+
 |タイトル|URL|
 |--------|:---------------------|
 |とほほのWWW入門|http://www.tohoho-web.com/www.htm|
@@ -17,6 +18,7 @@
 
 ## Basics of Modern Frontend
 モダンフロントエンドを取り巻く環境の中で、基礎的もしくは概念的な部分に付いてインプットすべき内容の記事をまとめて見ました。<br>モダンなフレームワークなどを勉強していく前に、それらがなぜ使われているのかを知るのにぴったりかと思います。
+
 |タイトル|URL|
 |--------|:---------------------|
 |SPA(Single Page Application)ってなに？|https://digitalidentity.co.jp/blog/creative/about-single-page-application.html|
@@ -27,6 +29,7 @@
 
 ## React.js and mores
 React Reduxで開発をしていくために見ておくべきページをまとめています。
+
 |タイトル|URL|
 |--------|:---------------------|
 |React.js|https://reactjs.org/docs/getting-started.html|
@@ -37,6 +40,7 @@ React Reduxで開発をしていくために見ておくべきページをまと
 
 ## Vue.js and mores
 Vue.jsをやっていくにあたって見ておくと良いドキュメントをまとめました。<br>非常にわかりやすい書籍もありますので、読んでみると非常に学びになるかと思います。
+
 |タイトル|URL|
 |--------|:---------------------|
 |Vue.js|https://jp.vuejs.org/v2/guide/|
@@ -48,6 +52,7 @@ Vue.jsをやっていくにあたって見ておくと良いドキュメント�
 
 ## Environment of Frontend
 モダンフロントエンド開発をしていくにあたって必要となる開発環境での事項をまとめました。<br>cliなど簡単に環境を作ってくれるツールもたくさん出てきていますが、webpackやeslintなどはフロントエンド開発で非常に大事なので手を動かしてみると開発の理解度が上がるかもしれません。
+
 |タイトル|URL|
 |--------|:---------------------|
 |Webpack|https://webpack.js.org/guides/getting-started/|
@@ -59,6 +64,7 @@ Vue.jsをやっていくにあたって見ておくと良いドキュメント�
 
 ## Designs
 世の中にあるデザインやUI/UXに関する記事をまとめて見ました。<br>フロントエンドはデザイン領域とも密接に関係する分野なので、どれくらいデザインに関わるかは人によりますが一通りインプットしておくとやくにたつと思います。
+
 |タイトル|URL|
 |--------|:---------------------|
 |Atomic Design|http://atomicdesign.bradfrost.com/table-of-contents/|
