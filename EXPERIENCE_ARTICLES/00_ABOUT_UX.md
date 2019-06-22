@@ -6,7 +6,7 @@ UXとは直訳すると`「ユーザー体験」`になります。
 近年では物質的なモノを作ることよりも、ユーザーが被る体験や経験が価値として直結することもあり重要になってきています。
 また、それ自体はBX(Branding Experience)やCX(Customer Experience)と呼ばれる上位概念の中に位置する概念です。（以下、図の通り）
 
-<img src="../assets/img/ux1png" />
+<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/ux1.png" />
 
 
 
