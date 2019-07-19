@@ -16,7 +16,7 @@
 | タイトル                         | URL                                                             |
 | -------------------------------- | :-------------------------------------------------------------- |
 | とほほの WWW 入門                | http://www.tohoho-web.com/www.htm                               |
-| リクルートテクノロジーズ新卒研修 | https://recruit-tech.co.jp/blog/2018/07/23/rtech_bootcamp_2018/ |
+| リクルートテクノロジーズ新卒研修 | https://recruit-tech.co.jp/blog/2019/07/02/rtech_bootcamp_2019/ |
 | Node school                      | https://nodeschool.io/                                          |
 |すべての新米フロントエンドエンジニアに読んでほしい50の資料|<https://qiita.com/suzu-4/items/ea5d802cb0ad16682ae2>|
 
