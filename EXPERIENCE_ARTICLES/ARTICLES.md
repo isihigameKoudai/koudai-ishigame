@@ -37,6 +37,9 @@
 |良いデザイナーになるために、最初に身につけておきたいデザインの基本の勉強方法|<https://coliss.com/articles/build-websites/operation/design/before-you-can-master-design.html>|
 |UXデザインにおける5段階モデルとは？|<https://goodpatch.com/blog/elements-of-ux/>|
 |UXの5段階モデル分解編 vol.1 サービス/プロダクトの原点となる戦略段階での具体的なデザイン手法|<https://goodpatch.com/blog/elements-of-ux-strategy/>|
+|UXの5段階モデル分解編 vol.2 サービス/プロダクトの開発指針を定める要件段階での具体的なデザイン手法|<https://goodpatch.com/blog/elements-of-ux-scope/>|
+|UXの5段階モデル分解編 vol.3 サービス/プロダクトのデータ構造を明確にする構造段階での具体的なデザイン手法|<https://goodpatch.com/blog/elements-of-ux-structure/>|
+|人にうれしいAIのためのUXデザインガイド|<http://storywriter.jp/pair/>|
 ||<>|
 
 
@@ -60,6 +63,8 @@
 |グラフィックデザイン上達へのアプローチ方法|<https://note.mu/ookwr/n/n2165970e7bff>|
 |UXエンジニアが知っておきたいデザインシステムの原則|<https://goodpatch.com/blog/ux-engineer-design-system/>|
 |UX DAYS TOKYO 2019の感想と雜感と軽レポート|<https://imasashi.net/uxdaystokyo_2019.html>|
+|UXについて理解が深まる！ユーザーエクスペリエンス概念図まとめ|<https://uxxinspiration.com/2014/09/ux-diagram/>|
+||<>|
 ||<>|
 
 
