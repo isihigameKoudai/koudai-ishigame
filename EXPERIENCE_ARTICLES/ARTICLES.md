@@ -23,6 +23,8 @@ UI/UXに関する良記事をまとめました。網羅的に読むことでUX�
 |海外で活躍したいデザイナーなら知っておきたい基本的デザイン用語|<https://blog.btrax.com/jp/overseasdesigners/>|
 |UI/UXデザイナーが知っておくべき心理学の原則|<https://blog.studio.design/ja/posts/psychology-principles-ui-ux-designer/>|
 |これだけ守ればみやすくなるデザインの基礎|<https://speakerdeck.com/kinakobooster/koredakeshou-rebajian-yasukunarudezainfalseji-chu>|
+|UIデザインをはじめよう|<https://speakerdeck.com/kinakobooster/uidezainwohazimeyou>|
+|今日からできるUXデザイン|<https://speakerdeck.com/kinakobooster/jin-ri-karadekiruuxdezain>|
 |Appleに影響を与えた伝説の工業デザイナー、ディーター・ラムスの「いいデザインの10か条」|<https://gigazine.net/news/20190307-10-principles-of-good-design/>|
 |長く使われて成長を続けるアプリの 5 原則|<https://developers-jp.googleblog.com/2019/02/5-principles-for-apps-to-survive-and-thrive.html?c=17d65395f20ff403-0d40ba697bcbbf49&m=1>|
 |UXを学ぶ上で重要な前提：UX基本概念|<https://uxdaystokyo.com/articles/deep-psychology/>|
@@ -88,3 +90,4 @@ UI/UXに関する良記事をまとめました。網羅的に読むことでUX�
 |独学でUIデザインを勉強する方法を自分の経験をもとに考えてみた|<https://note.mu/supisupi/n/n9f256523a0c2>|
 |未来の自分が感謝する！適切なレイアウトを意識したUIトレース方法|<https://note.mu/k_aoym/n/n8828e08749cd>|
 |配色はセンスじゃない、UIデザインで色をかんたんにキメるメソッド|<https://note.mu/tiekey/n/nf1152c5daebf>|
+
