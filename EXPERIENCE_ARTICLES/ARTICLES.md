@@ -45,8 +45,7 @@ UI/UXに関する良記事をまとめました。網羅的に読むことでUX�
 |UXの5段階モデル分解編 vol.1 サービス/プロダクトの原点となる戦略段階での具体的なデザイン手法|<https://goodpatch.com/blog/elements-of-ux-strategy/>|
 |UXの5段階モデル分解編 vol.2 サービス/プロダクトの開発指針を定める要件段階での具体的なデザイン手法|<https://goodpatch.com/blog/elements-of-ux-scope/>|
 |UXの5段階モデル分解編 vol.3 サービス/プロダクトのデータ構造を明確にする構造段階での具体的なデザイン手法|<https://goodpatch.com/blog/elements-of-ux-structure/>|
-|UXの5段階モデル分解編 vol.4 サービス/プロダクトの原型を作成し、ユーザビリティテストを行う骨格段階での具体的なデザイン手法
-|<https://goodpatch.com/blog/elements-of-ux-skeleton/>|
+|UXの5段階モデル分解編 vol.4 サービス/プロダクトの原型を作成し、ユーザビリティテストを行う骨格段階での具体的なデザイン手法|<https://goodpatch.com/blog/elements-of-ux-skeleton/>|
 |人にうれしいAIのためのUXデザインガイド|<http://storywriter.jp/pair/>|
 ||<>|
 
