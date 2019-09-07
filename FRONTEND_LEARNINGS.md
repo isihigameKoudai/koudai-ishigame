@@ -31,6 +31,7 @@
 | React を使うとなぜ jQuery が要らなくなるのか      | https://qiita.com/naruto/items/fdb61bc743395f8d8faf                            |
 | Flux という設計思想                               | https://app.codegrid.net/entry/react-ex-1                                      |
 | Flux とはなんなのか                               | https://qiita.com/knhr__/items/5fec7571dab80e2dcd92                            |
+|2019年のエンジニア新人研修の講義資料を公開しました|<https://blog.cybozu.io/entry/2019/09/05/080000>|
 
 ## React.js and mores
 
