@@ -182,6 +182,7 @@ UXデザインのフローは細かく見ていくと各組織やチームごと
 ### 参考
 
 - <https://designer.crowdworks.co.jp/entry/what_is_ux_designer>
+- <https://note.mu/fladdict/n/nb35a938974d0>
 - <https://goodpatch.com/blog/ui-interface-architect/>
 - <https://goodpatch.com/blog/elements-of-ux/>
 - <https://goodpatch.com/blog/elements-of-ux-strategy/>
