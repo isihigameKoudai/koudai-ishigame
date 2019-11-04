@@ -19,6 +19,7 @@
 | リクルートテクノロジーズ新卒研修 | https://recruit-tech.co.jp/blog/2019/07/02/rtech_bootcamp_2019/ |
 | Node school                      | https://nodeschool.io/                                          |
 |すべての新米フロントエンドエンジニアに読んでほしい50の資料|<https://qiita.com/suzu-4/items/ea5d802cb0ad16682ae2>|
+|未経験でも1カ月で即戦力クラスの知識が身に付く『webデザインドリル』公開|<https://baigie.me/officialblog/2019/10/30/web-design-workbook/>|
 
 ## Basics of Modern Frontend
 
