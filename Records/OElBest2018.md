@@ -13,5 +13,5 @@
 - 
 
 ## その他
-<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/oel2018_2.png" />
+<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/oel2018_2.jpg" />
 - 世界各国からプロフェッショナルの広告系フォトグラファーが軒を連ねる厳選写真メディアのOneEyeLandにて、TOP2%の写真に選ばれました。また、それらの作品を集めたハードカバーの本が世界の大手広告業者５００社に配られています。

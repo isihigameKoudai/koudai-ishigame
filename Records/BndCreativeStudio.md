@@ -17,8 +17,10 @@
 ## 使用技術・ツールなど
 - XD
 - Atomic Design
+- jamstack
 - Nuxt.js
 - TypeScript
+- Netlify
 - storybook
 - renovate
 - slack api
