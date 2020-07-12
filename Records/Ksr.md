@@ -2,7 +2,7 @@
 
 ## 制作物
 
-<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/ksr.jpg" />
+<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/ksr.png" />
 
 [ページURL](https://ks-rogers.co.jp/)
 
