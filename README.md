@@ -67,6 +67,9 @@
   - XD
  
 - Execution env
+  - homebrew
+  - git
+  - n
   - nodebrew
   - avn
   - Node.js
@@ -80,6 +83,7 @@
   - mysql
   - fish
   - dotenv
+  - docker
   
 - Editor (VScode)
   - eslint
@@ -103,8 +107,10 @@
   - Bracket Pair Colorizer
   - Slack theme
 
-  
+  - command open https://qiita.com/naru0504/items/c2ed8869ffbf7682cf5c
+  - fish対応 https://qiita.com/doutori/items/60354258a0b4046e1f29
+
   ## job and actions
 - AsiaQuest フロントエンドエンジニア 201704~
-- Bright&dizain フロントエンドエンジニア、フォトグラファー、アートディレクター 201802~
+- Bright&dizain フロントエンドエンジニア、フォトグラファー 201802~
 
