@@ -1,17 +1,22 @@
 # koudai-ishigame
 
-## features   
+## features
+
 - ストレングスファインダー （収集心　最上志向　慎重さ　学習欲　着想）
 
 ## Highest Value
+
 クリエイティブ、世界を創る
 
 ## sense of values
+
 -「強み」「得意なこと」「天性（先天後天問わず）」などを活かすこと
+
 - アウトプットすること
 - 与えよさらば与えられん
 
 ## strong point
+
 - 専門的な知識・たくさんの情報を、わかりやすく翻訳したり噛み砕いたりして体系化すること、そしてそれらを伝えること
 - 作るべきもののあるべきや最終的に目指す世界観の想像
 - 抽象化
@@ -20,12 +25,14 @@
 - 没頭すること
 
 ## weak point
+
 - アドリブ、即時性の求められるコミュニケーション
 - マイナスを０にするような作業
 - マルチタスク
 - 記憶力
 
 ## skills
+
 - HTML
 - CSS, Sass/Scss, Less
 - javascript(es5, es6)
@@ -45,6 +52,7 @@
 - Contentful
 
 ## interest
+
 - tensorflow.js
 - firebase
 - serverless
@@ -54,8 +62,10 @@
 - GraphQL
 - python
 
-## BasicEnv   
+## BasicEnv
+
 - Soft ware
+
   - Github
   - Gitlab
   - slack
@@ -65,8 +75,9 @@
   - Photoshop
   - Lightroom
   - XD
- 
+
 - Execution env
+
   - homebrew
   - git
   - n
@@ -84,10 +95,11 @@
   - fish
   - dotenv
   - docker
-  
+
 - Editor (VScode)
+
   - eslint
-  - babel 
+  - babel
   - prettier
   - debugger for chrome
   - editorconfig
@@ -108,9 +120,17 @@
   - Slack theme
 
   - command open https://qiita.com/naru0504/items/c2ed8869ffbf7682cf5c
-  - fish対応 https://qiita.com/doutori/items/60354258a0b4046e1f29
+  - fish 対応 https://qiita.com/doutori/items/60354258a0b4046e1f29
 
   ## job and actions
+
 - AsiaQuest フロントエンドエンジニア 201704~
 - Bright&dizain フロントエンドエンジニア、フォトグラファー 201802~
 
+## Engineer's Social Media
+
+- [Github](https://github.com/isihigameKoudai)
+- [Twitter](https://twitter.com/kamepon_fe)
+- [Qiita](https://qiita.com/isihigameKoudai)
+- [zenn](https://zenn.dev/koudaiishigame)
+- [Lhaplas](https://lapras.com/public/C1OKAQX)
