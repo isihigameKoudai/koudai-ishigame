@@ -7,5 +7,7 @@
   - [TIFA(Tokyo International Foto Awards) 2020: Fine Art Portrait(Non Professional) honorable mention](https://www.tokyofotoawards.jp/winners/hm/2020/5073/)
   - [OneEyeLand World's Top 10 Fine Art Photographers 2020 Finalist](https://oneeyeland.com/top-10/photo-contest/fine-art/award_images.php?award_id=4179)
   - [OneEyeLand World's Top 10 Fashin Photographers 2020 Bronze](https://oneeyeland.com/top-10/photo-contest/fashion/award_images.php?award_id=4553)
+  - [OneEyeLand Awards 2020 Professional Fine Art Portrait Bronze](https://oneeyeland.com/awards/award_images.php?award_id=5220&year=2020)
+  - [OneEyeLand Awards 2020 Professional Fine Art Portrait Finalist](https://oneeyeland.com/awards/award_images.php?award_id=5546&year=2020)
 - 2021
   - [WPE International Photography Awards 2021 first half(Portrait) Silver ](https://www.wpeawards.com/rubrique/galleries.php?id_contest=8&id_archive_category=135&page=1)
