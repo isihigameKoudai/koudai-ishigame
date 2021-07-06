@@ -2,7 +2,7 @@
 
 ## 制作物
 
-<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/tblt.jpg" />
+<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/tblt.png" />
 
 [tblt Instagram](https://www.instagram.com/tblt_e/?hl=ja)
 
