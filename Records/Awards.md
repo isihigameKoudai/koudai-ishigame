@@ -16,3 +16,4 @@
     - [MIZUSHIBUKI](https://fineartphotoawards.com/winners-gallery/fapa-2020-2021/professional/fine-art/hm/13931)
 - 2021
   - [WPE International Photography Awards 2021 first half(Portrait) Silver ](https://www.wpeawards.com/rubrique/galleries.php?id_contest=8&id_archive_category=135&page=1)
+  - [OneEyeLand BEST OF THE BEST PHOTOGRAPHERS 2021](https://oneeyeland.com/book/best-of-the-best-photographers-2021)
