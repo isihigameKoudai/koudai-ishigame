@@ -17,3 +17,5 @@
 - 2021
   - [WPE International Photography Awards 2021 first half(Portrait) Silver ](https://www.wpeawards.com/rubrique/galleries.php?id_contest=8&id_archive_category=135&page=1)
   - [OneEyeLand BEST OF THE BEST PHOTOGRAPHERS 2021](https://oneeyeland.com/book/best-of-the-best-photographers-2021)
+- 2022
+  - [APA AWARDS（公益社団法人日本広告写真家協会公募展APAアワード2022）](http://www.apa-japan.com/award/)

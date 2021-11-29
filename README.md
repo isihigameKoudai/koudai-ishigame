@@ -1,5 +1,9 @@
 # koudai-ishigame
 
+## Vision & Goal
+
+千年残る可視世界を作る
+
 ## features
 
 - ストレングスファインダー （収集心　最上志向　慎重さ　学習欲　着想）
