@@ -16,6 +16,7 @@
     - [MIZUSHIBUKI](https://fineartphotoawards.com/winners-gallery/fapa-2020-2021/professional/fine-art/hm/13931)
 - 2021
   - [WPE International Photography Awards 2021 first half(Portrait) Silver ](https://www.wpeawards.com/rubrique/galleries.php?id_contest=8&id_archive_category=135&page=1)
+  - [WPE International Photography Awards Annual Final 2021](https://www.wpeawards.com/rubrique/galleries.php?id_contest=10&id_archive_category=193)
   - [OneEyeLand BEST OF THE BEST PHOTOGRAPHERS 2021](https://oneeyeland.com/book/best-of-the-best-photographers-2021)
   - [TIFA(Tokyo International Foto Awards) 2021: Advertising/Beauty Bronze](https://www.tokyofotoawards.jp/winners/social/2021/Rebirth-By-Butterfly-of-Infectious)
   - [TIFA(Tokyo International Foto Awards) 2021: Advertising/Fashion Bronze](https://www.tokyofotoawards.jp/winners/social/2021/Modern-Konohanasakuyahime)
