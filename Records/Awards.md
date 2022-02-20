@@ -20,5 +20,6 @@
   - [OneEyeLand BEST OF THE BEST PHOTOGRAPHERS 2021](https://oneeyeland.com/book/best-of-the-best-photographers-2021)
   - [TIFA(Tokyo International Foto Awards) 2021: Advertising/Beauty Bronze](https://www.tokyofotoawards.jp/winners/social/2021/Rebirth-By-Butterfly-of-Infectious)
   - [TIFA(Tokyo International Foto Awards) 2021: Advertising/Fashion Bronze](https://www.tokyofotoawards.jp/winners/social/2021/Modern-Konohanasakuyahime)
+  - [Annual Photography Awards 2021: Portrait Honorable Mention](https://annualphotoawards.com/winners/apa-2021/award/portrait/honorable-mention/1643)
 - 2022
   - [APA AWARDS（公益社団法人日本広告写真家協会公募展APAアワード2022）](http://www.apa-japan.com/award/)
