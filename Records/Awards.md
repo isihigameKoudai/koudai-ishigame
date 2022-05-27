@@ -23,3 +23,4 @@
   - [Annual Photography Awards 2021: Portrait Honorable Mention](https://annualphotoawards.com/winners/apa-2021/award/portrait/honorable-mention/1643)
 - 2022
   - [APA AWARDS（公益社団法人日本広告写真家協会公募展APAアワード2022）](http://www.apa-japan.com/award/)
+  - [8th Fine Art Photography Awards Professional Portrait nominee](https://fineartphotoawards.com/winners-gallery/fapa-2021-2022/professional/portrait/hm/17073)
