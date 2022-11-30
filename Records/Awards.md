@@ -18,10 +18,14 @@
   - [WPE International Photography Awards 2021 first half(Portrait) Silver ](https://www.wpeawards.com/rubrique/galleries.php?id_contest=8&id_archive_category=135&page=1)
   - [WPE International Photography Awards Annual Final 2021](https://www.wpeawards.com/rubrique/galleries.php?id_contest=10&id_archive_category=193)
   - [OneEyeLand BEST OF THE BEST PHOTOGRAPHERS 2021](https://oneeyeland.com/book/best-of-the-best-photographers-2021)
-  - [TIFA(Tokyo International Foto Awards) 2021: Advertising/Beauty Bronze](https://www.tokyofotoawards.jp/winners/social/2021/Rebirth-By-Butterfly-of-Infectious)
-  - [TIFA(Tokyo International Foto Awards) 2021: Advertising/Fashion Bronze](https://www.tokyofotoawards.jp/winners/social/2021/Modern-Konohanasakuyahime)
+  - TIFA(Tokyo International Foto Awards) 2021
+    - [Rebirth by butterfly of infectious: Advertising/Beauty Bronze](https://www.tokyofotoawards.jp/winners/social/2021/Rebirth-By-Butterfly-of-Infectious)
+    - [Modern Konohanasakuyahime: Advertising/Fashion Bronze](https://www.tokyofotoawards.jp/winners/social/2021/Modern-Konohanasakuyahime)
   - [Annual Photography Awards 2021: Portrait Honorable Mention](https://annualphotoawards.com/winners/apa-2021/award/portrait/honorable-mention/1643)
 - 2022
   - [APA AWARDS（公益社団法人日本広告写真家協会公募展APAアワード2022）](http://www.apa-japan.com/award/)
   - [8th Fine Art Photography Awards Professional Portrait nominee](https://fineartphotoawards.com/winners-gallery/fapa-2021-2022/professional/portrait/hm/17073)
   - [MIFA(Moscow International Foto Awards) 2022: Advertising/Fashion Bronze](https://www.moscowfotoawards.com/winners/hm/2022/10-31866-22/)
+  - BIFA(Budapest International Foto Awards) 2022
+    - [Rebirth By Butterfly of Infectious: Honorable Mention](https://budapestfotoawards.com/winners/social/2022/93-25135-22/)
+    - [The Beauty of Aging: Honorable Mention](https://budapestfotoawards.com/winners/social/2022/93-25136-22/)
