@@ -25,7 +25,12 @@
 - 2022
   - [APA AWARDS（公益社団法人日本広告写真家協会公募展APAアワード2022）](http://www.apa-japan.com/award/)
   - [8th Fine Art Photography Awards Professional Portrait nominee](https://fineartphotoawards.com/winners-gallery/fapa-2021-2022/professional/portrait/hm/17073)
-  - [MIFA(Moscow International Foto Awards) 2022: Advertising/Fashion Bronze](https://www.moscowfotoawards.com/winners/hm/2022/10-31866-22/)
+  - MIFA(Moscow International Foto Awards) 2022
+    - [Rebirth By Butterfly of Infectious: Advertising/Fashion Bronze](https://www.moscowfotoawards.com/winners/hm/2022/10-31866-22/)
   - BIFA(Budapest International Foto Awards) 2022
     - [Rebirth By Butterfly of Infectious: Honorable Mention](https://budapestfotoawards.com/winners/social/2022/93-25135-22/)
     - [The Beauty of Aging: Honorable Mention](https://budapestfotoawards.com/winners/social/2022/93-25136-22/)
+  - TIFA(Tokyo International Foto Awards) 2022
+    - [Asian Girl: Advertising / Beauty Gold](https://www.tokyofotoawards.jp/winners/social/2022/23-36123-22)
+    - [Strength Like Cherry Blossoms: Advertising / Beauty Bronze](https://www.tokyofotoawards.jp/winners/social/2022/23-36122-22/)
+    - [The Beauty of Aging: Advertising / Fashion Honorable mention](https://www.tokyofotoawards.jp/winners/hm/2022/7642/)
