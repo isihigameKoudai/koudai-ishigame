@@ -34,5 +34,5 @@
     - [Asian Girl: Advertising / Beauty Gold](https://www.tokyofotoawards.jp/winners/social/2022/23-36123-22)
     - [Strength Like Cherry Blossoms: Advertising / Beauty Bronze](https://www.tokyofotoawards.jp/winners/social/2022/23-36122-22/)
     - [The Beauty of Aging: Advertising / Fashion Honorable mention](https://www.tokyofotoawards.jp/winners/hm/2022/7642/)
-  - OneEyeLand World's Top 10 FineArt Photographers 2020
+  - OneEyeLand World's Top 10 FineArt Photographers 2022
     - [Blooming: Finalist](https://oneeyeland.com/top-10/photo-contest/fine-art/award_images.php?award_id=9537)
