@@ -21,10 +21,13 @@
   - TIFA(Tokyo International Foto Awards) 2021
     - [Rebirth by butterfly of infectious: Advertising/Beauty Bronze](https://www.tokyofotoawards.jp/winners/social/2021/Rebirth-By-Butterfly-of-Infectious)
     - [Modern Konohanasakuyahime: Advertising/Fashion Bronze](https://www.tokyofotoawards.jp/winners/social/2021/Modern-Konohanasakuyahime)
-  - [Annual Photography Awards 2021: Portrait Honorable Mention](https://annualphotoawards.com/winners/apa-2021/award/portrait/honorable-mention/1643)
+  - Annual Photography Awards 2021
+    - [Splash: Portrait Honorable Mention](https://annualphotoawards.com/winners/apa-2021/award/portrait/honorable-mention/1643)
+    
 - 2022
   - [APA AWARDS（公益社団法人日本広告写真家協会公募展APAアワード2022）](http://www.apa-japan.com/award/)
-  - [8th Fine Art Photography Awards Professional Portrait nominee](https://fineartphotoawards.com/winners-gallery/fapa-2021-2022/professional/portrait/hm/17073)
+  - 8th Fine Art Photography Awards
+    - [Rebirth By Butterfly of Infectious: Professional Portrait nominee](https://fineartphotoawards.com/winners-gallery/fapa-2021-2022/professional/portrait/hm/17073)
   - MIFA(Moscow International Foto Awards) 2022
     - [Rebirth By Butterfly of Infectious: Advertising/Fashion Bronze](https://www.moscowfotoawards.com/winners/hm/2022/10-31866-22/)
   - BIFA(Budapest International Foto Awards) 2022
@@ -36,3 +39,5 @@
     - [The Beauty of Aging: Advertising / Fashion Honorable mention](https://www.tokyofotoawards.jp/winners/hm/2022/7642/)
   - OneEyeLand World's Top 10 FineArt Photographers 2022
     - [Blooming: Finalist](https://oneeyeland.com/top-10/photo-contest/fine-art/award_images.php?award_id=9537)
+  - Annual Photography Awards 2022
+    - [Rebirth by butterfly of infectious: People: Portraiture Honorable Mention](https://annualphotoawards.com/winners/annual-photography-awards-2022/award/portraiture/honorable-mention/2417)
