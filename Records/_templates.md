@@ -4,13 +4,16 @@
 
 <img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/_sample.jpg" />
 
-[ページURL]()
+[ページ URL]()
 
 ## 担当・作業範囲
-- 
+
+-
 
 ## 使用技術
-- 
+
+-
 
 ## その他
-- 
+
+-
