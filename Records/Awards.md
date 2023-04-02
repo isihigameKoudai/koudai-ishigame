@@ -41,3 +41,7 @@
     - [Blooming: Finalist](https://oneeyeland.com/top-10/photo-contest/fine-art/award_images.php?award_id=9537)
   - Annual Photography Awards 2022
     - [Rebirth by butterfly of infectious: People: Portraiture Honorable Mention](https://annualphotoawards.com/winners/annual-photography-awards-2022/award/portraiture/honorable-mention/2417)
+- 2023
+  - 8th Fine Art Photography Awards
+    - [Strength like cherry blossoms: Professional Portrait nominee](https://fineartphotoawards.com/winners-gallery/fapa-2022-2023/professional/fine-art/hm/18596)
+    - [The Beauty of Aging: Amateur Portrait nominee](https://fineartphotoawards.com/winners-gallery/fapa-2022-2023/amateur/fine-art/hm/19451)
