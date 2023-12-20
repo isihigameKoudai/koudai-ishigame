@@ -49,3 +49,5 @@
     - [Asian girl: Professional Advertising / Beauty Silver](https://px3.fr/winners/px3/2023/13342/)
   - IPA(International Photography Awards) 2023
     - [Asian girl: Professional Advertising / Beauty Honorable Mention](https://photoawards.com/winner/zoom.php?eid=8-1675377933-23)
+  - BIFA(Budapest International Foto Awards) 2023
+    - [Asian Girl: Honorable Mention](https://budapestfotoawards.com/winners/social/2023/93-27979-23/1703044461/)
