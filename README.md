@@ -46,7 +46,7 @@
 - Vue.js
 - Nuxt.js
 - React
-- Next.js
+- Next.js(app router)
 - Express
 - MongoDB
 - OOCSS,FLOCSS,BEM
@@ -54,21 +54,23 @@
 - UX
 - Netlify
 - Contentful
+- tensorflowjs/coco-ssd
+- MUI v4,v5
+- three.js
+- react-three-fiber
+- GLSL
+
 
 ## interest
 
-- tensorflow.js
 - firebase
 - serverless
-- React.js
-- redux
-- Next.js
 - GraphQL
 - python
 
 ## BasicEnv
 
-- Soft ware
+- Software
 
   - Github
   - Gitlab
@@ -131,10 +133,17 @@
 - AsiaQuest フロントエンドエンジニア 201704~
 - Bright&dizain フロントエンドエンジニア、フォトグラファー 201802~
 
-## Engineer's Social Media
+## Social Media
 
 - [Github](https://github.com/isihigameKoudai)
 - [Twitter](https://twitter.com/kamepon_fe)
 - [Qiita](https://qiita.com/isihigameKoudai)
 - [zenn](https://zenn.dev/koudaiishigame)
 - [Lhaplas](https://lapras.com/public/C1OKAQX)
+- [youtrust](https://youtrust.jp/users/321fe475a7e728e69b2e3891f2c1f691)
+- [note](https://note.com/ishigamekoudai)
+- [Wantedly](https://www.wantedly.com/id/koudai_ishigame)
+
+## Exhibition
+- 銀座個展 2022/03/26 [銀座ショールーム](https://www.hometopia.jp/branch/ginza/)
+- 八戸個展 2023/12/23,24 [八戸市美術館](https://www.instagram.com/p/C1N9ZKKyLSU/?img_index=3)
