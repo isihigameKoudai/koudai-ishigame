@@ -144,6 +144,7 @@
 - [youtrust](https://youtrust.jp/users/321fe475a7e728e69b2e3891f2c1f691)
 - [note](https://note.com/ishigamekoudai)
 - [Wantedly](https://www.wantedly.com/id/koudai_ishigame)
+- [LinkedIn](https://www.linkedin.com/in/%E5%BA%83%E5%A4%A7-%E7%9F%B3%E4%BA%80-606b7b254/)
 
 ## Exhibition
 - 銀座個展 2022/03/26 [銀座ショールーム](https://www.hometopia.jp/branch/ginza/)
