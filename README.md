@@ -1,5 +1,18 @@
 # koudai-ishigame
 
+## Social Media
+
+- [Github](https://github.com/isihigameKoudai)
+- [Twitter](https://twitter.com/kamepon_fe)
+- [Instagram](https://www.instagram.com/works.koudai_ishigame/)
+- [Qiita](https://qiita.com/isihigameKoudai)
+- [zenn](https://zenn.dev/koudaiishigame)
+- [Lhaplas](https://lapras.com/public/C1OKAQX)
+- [youtrust](https://youtrust.jp/users/321fe475a7e728e69b2e3891f2c1f691)
+- [note](https://note.com/ishigamekoudai)
+- [Wantedly](https://www.wantedly.com/id/koudai_ishigame)
+- [LinkedIn](https://www.linkedin.com/in/%E5%BA%83%E5%A4%A7-%E7%9F%B3%E4%BA%80-606b7b254/)
+
 ## Vision & Goal
 
 千年残る可視世界を作る
@@ -59,14 +72,14 @@
 - three.js
 - react-three-fiber
 - GLSL
-
+- Tensorflow.js
 
 ## interest
 
+- AI
 - firebase
 - serverless
 - GraphQL
-- python
 
 ## BasicEnv
 
@@ -78,30 +91,19 @@
   - postman
   - fork
   - vscode
+  - cursor
+  - Notion
+  - Figma
   - Photoshop
   - Lightroom
-  - XD
-
-- Execution env
-
-  - homebrew
-  - git
-  - n
-  - nodebrew
-  - avn
-  - Node.js
-  - npm
-  - mongo
-  - yarn
-  - ruby
-  - rails
-  - php
-  - composer
-  - mysql
-  - fish
   - dotenv
   - docker
-
+  - Perplexity
+  - Genspark
+  - Claude
+  - ChatGPT
+  - Github Copilot
+  
 - Editor (VScode)
 
   - eslint
@@ -130,21 +132,8 @@
 
   ## job and actions
 
-- AsiaQuest フロントエンドエンジニア 201704~
+- AsiaQuest フロントエンドエンジニア 201704~202106
 - Bright&dizain フロントエンドエンジニア、フォトグラファー 201802~
-
-## Social Media
-
-- [Github](https://github.com/isihigameKoudai)
-- [Twitter](https://twitter.com/kamepon_fe)
-- [Instagram](https://www.instagram.com/works.koudai_ishigame/)
-- [Qiita](https://qiita.com/isihigameKoudai)
-- [zenn](https://zenn.dev/koudaiishigame)
-- [Lhaplas](https://lapras.com/public/C1OKAQX)
-- [youtrust](https://youtrust.jp/users/321fe475a7e728e69b2e3891f2c1f691)
-- [note](https://note.com/ishigamekoudai)
-- [Wantedly](https://www.wantedly.com/id/koudai_ishigame)
-- [LinkedIn](https://www.linkedin.com/in/%E5%BA%83%E5%A4%A7-%E7%9F%B3%E4%BA%80-606b7b254/)
 
 ## Exhibition
 - 銀座個展 2022/03/26 [銀座ショールーム](https://www.hometopia.jp/branch/ginza/)
