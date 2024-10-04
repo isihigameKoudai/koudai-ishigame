@@ -137,6 +137,7 @@
 
 - [Github](https://github.com/isihigameKoudai)
 - [Twitter](https://twitter.com/kamepon_fe)
+- [Instagram](https://www.instagram.com/works.koudai_ishigame/)
 - [Qiita](https://qiita.com/isihigameKoudai)
 - [zenn](https://zenn.dev/koudaiishigame)
 - [Lhaplas](https://lapras.com/public/C1OKAQX)
