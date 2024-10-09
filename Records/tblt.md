@@ -4,7 +4,7 @@
 
 <img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/tblt.png" />
 
-<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/tblt_still.png" />
+<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/main/assets/img/tblt_still.png" />
 
 [tblt Instagram](https://www.instagram.com/tblt_e/?hl=ja)
 
