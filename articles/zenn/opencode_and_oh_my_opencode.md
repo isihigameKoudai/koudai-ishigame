@@ -63,6 +63,10 @@ brew install anomalyco/tap/opencode
 opencode
 ```
 
+以下の画面でたら起動成功です。
+
+<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/opencode_title.png" />
+
 初回起動時にLLMプロバイダーの設定を求められます。`/connect`コマンドで各プロバイダーのAPIキーを設定できます。
 
 ```
@@ -152,6 +156,23 @@ OpenCodeには複数のエージェントが用意されています。TUI内で
 ```
 @explore このプロジェクトで認証がどのように実装されているか調べて
 ```
+
+#### VSCode拡張
+
+vscode拡張もあるので使ってみてください。
+
+<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/opencode_vscode.png" />
+
+##### インストール方法
+
+```bash
+# 統合ターミナルで実行すると自動インストール
+opencode
+
+# または、拡張機能マーケットプレイスで "OpenCode" を検索してインストール
+```
+
+エディタで選択中のコードやタブの情報が自動的にOpenCodeに共有されるので、「この選択範囲を説明して」のような指示がスムーズにできます。
 
 ### opencode.jsonの設定について
 
@@ -358,6 +379,8 @@ OpenCodeはプラグインシステムを持っており、oh-my-opencodeなど�
 https://ohmyopencode.com/
 
 https://github.com/code-yeongyu/oh-my-opencode
+
+<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/opencode_and_oh_my_opencode.png" />
 
 #### 主な特徴
 
