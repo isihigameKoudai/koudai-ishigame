@@ -1,16 +1,3 @@
----
-title: "突撃！隣のOpenCode！（概要から実践編まで）"
-emoji: "🤖"
-type: "tech"
-topics:
-  - "AI"
-  - "opencode"
-  - "ohmyopencode"
-  - "エージェント"
-  - "開発ツール"
-published: false
----
-
 ## 初めに
 
 こんにちは、[かめぽん](https://twitter.com/kamepon_fe)です。
@@ -19,9 +6,9 @@ published: false
 
 ---
 
-## 概要編（opencode編）
+## 概要編（OpenCode編）
 
-### opencodeとは
+### OpenCodeとは
 
 [OpenCode](https://opencode.ai/)は、オープンソースのAIコーディングエージェントです。ターミナルベースのTUI（Terminal User Interface）、デスクトップアプリ、IDE拡張として利用できます。ざっくり言うとオープンソース版Claude Codeとも言えます。
 
@@ -36,7 +23,7 @@ https://opencode.ai/
 - **GitHub連携**: Issue/PRで`/opencode`コマンドを使って直接エージェントを呼び出せる
 - **MCP対応**: Model Context Protocol（MCP）に対応し、外部ツールとの連携が可能
 
-### opencodeの導入方法
+### OpenCodeの導入方法
 
 #### インストール
 
@@ -63,9 +50,9 @@ brew install anomalyco/tap/opencode
 opencode
 ```
 
-以下の画面でたら起動成功です。
+以下の画面がでたら起動成功です。
 
-<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/opencode_title.png" />
+![](https://storage.googleapis.com/zenn-user-upload/de93a466edbd-20260114.png)
 
 初回起動時にLLMプロバイダーの設定を求められます。`/connect`コマンドで各プロバイダーのAPIキーを設定できます。
 
@@ -124,8 +111,6 @@ TUI内ではファイル参照やシェルコマンドの実行も可能です�
 # @でファイルをファジー検索して参照
 @src/components/Button.tsx のコードをレビューして
 
-# !でシェルコマンドを実行（結果が会話に追加される）
-!npm test
 ```
 
 #### CLIでの直接実行
@@ -161,7 +146,7 @@ OpenCodeには複数のエージェントが用意されています。TUI内で
 
 vscode拡張もあるので使ってみてください。
 
-<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/opencode_vscode.png" />
+![](https://storage.googleapis.com/zenn-user-upload/4830809d10d9-20260114.png)
 
 ##### インストール方法
 
@@ -358,29 +343,25 @@ Model Context Protocol（MCP）サーバーとの連携を設定します。MCP�
 
 ##### プラグイン設定（plugin）
 
-OpenCodeはプラグインシステムを持っており、oh-my-opencodeなどの拡張機能を追加できます。
+OpenCodeはプラグインシステムを持っており、拡張機能を追加できます。
 
 ```json
 {
   "plugin": [
-    "oh-my-opencode"
+    "some-extenson"
   ]
 }
 ```
 
 ---
 
-## 実践編（oh-my-opencodeと接続編）
+## 実践編（oh-my-opencode編）
 
 ### oh-my-opencodeとは
 
-[oh-my-opencode](https://ohmyopencode.com/)は、OpenCodeを拡張する**エージェントオーケストレーションプラグイン**です。「The Best Agent Harness（最高のエージェントハーネス）」を謳っており、複数の専門エージェントを連携させて複雑なタスクを効率的に処理します。
-
-https://ohmyopencode.com/
+[oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)は、OpenCodeを拡張する**エージェントオーケストレーションプラグイン**です。「The Best Agent Harness（最高のエージェントハーネス）」を謳っており、複数の専門エージェントを連携させて複雑なタスクを効率的に処理します。
 
 https://github.com/code-yeongyu/oh-my-opencode
-
-<img src="https://github.com/isihigameKoudai/koudai-ishigame/blob/master/assets/img/opencode_and_oh_my_opencode.png" />
 
 #### 主な特徴
 
@@ -389,21 +370,12 @@ https://github.com/code-yeongyu/oh-my-opencode
 - **本番運用実績**: Google、Microsoft、Indentなどで実際に使用されている
 - **高度なカスタマイズ**: エージェント、フック、MCP、LSPサーバーを自由に設定可能
 
-#### 名前の由来
-
-「Oh My Zsh」のように、設定済みの便利な機能が最初から使える状態で提供されることから名付けられています。エージェントハーネスの選択に悩む必要がなく、インストールすればすぐに強力なエージェントシステムが使えます。
-
 ### oh-my-opencodeの導入方法
 
 #### インストール
 
-```bash
-# npm
-npm install -g oh-my-opencode
-
-# bun
-bun install -g oh-my-opencode
-```
+インストールは以下を参照すると良いです。
+https://github.com/code-yeongyu/oh-my-opencode/blob/dev/docs/guide/installation.md
 
 #### 初期設定
 
@@ -529,8 +501,6 @@ oh-my-opencodeには20以上の組み込みフックがあり、ワークフロ�
 }
 ```
 
-詳細な設定については[公式ドキュメント](https://ohmyopencode.com/documentation/)を参照してください。
-
 ---
 
 ## 使ってみての感想
@@ -541,14 +511,16 @@ opencodeを起動してから、`/init`コマンドを打つと、既存プロ�
 
 ### モデルの選択肢が豊富で柔軟に使える
 
-OpenCodeのモデル選択は公式お手製のOpenCodeZen経由、API key経由、Ollama、ローカルLLMなど多様な指定方法ができるので、例えば「ちょっと試してみたい・軽い作業をさせたい」くらいならOllamaやOpenCodeZenの無料モデルで事足り、本格的に使うならClaude Opus 4.5やGPT 5.2でオーケストレーションさせて複雑なタスクをこなすこともできる。ユースケースに応じてコストと性能のバランスを調整できるのがありがたい。
+OpenCodeのモデル選択は公式お手製のOpenCodeZen経由をはじめ、API key経由、Ollama、ローカルLLMなど多様な指定方法ができるので、例えば「ちょっと試してみたい・軽い作業をさせたい」くらいならOllamaやOpenCodeZenの無料モデルで事足り、本格的に使うならClaude Opus 4.5やGPT 5.2でオーケストレーションさせて複雑なタスクをこなすこともできる。ユースケースに応じてコストと性能のバランスを調整できるのがありがたい。
 
 個人的には、Sisyphus（メインオーケストレーター）にはClaude Opus 4.5、探索系のexplore/librarianにはGrok Code Fast 1やGemini 3 Proみたいな安めのモデルを割り当てて、コストを抑えつつ複雑なタスクにも対応できるようにしてる。
 
 ### 注意点
 
-- **トークン消費は多め**: 複数エージェントが並列で動くので、explore/librarianには安いモデルを割り当てるのがおすすめ
+- **オーケストレーションではトークン消費は多め**: 複数エージェントが並列で動くので、explore/librarianには安いモデルを割り当てるのがおすすめ
 - **設定ファイルの理解は必要**: 最初はちょっととっつきにくいけど、公式ドキュメントを見れば大丈夫
+
+ちなみにこの記事もOpenCodeを活用して執筆に役立てました 😎
 
 ---
 
@@ -556,7 +528,6 @@ OpenCodeのモデル選択は公式お手製のOpenCodeZen経由、API key経由
 
 - [OpenCode公式ドキュメント](https://opencode.ai/docs/)
 - [OpenCode GitHub](https://github.com/anomalyco/opencode)
-- [Oh My OpenCode公式サイト](https://ohmyopencode.com/)
 - [Oh My OpenCode GitHub](https://github.com/code-yeongyu/oh-my-opencode)
 - [Oh My OpenCode DeepWiki](https://deepwiki.com/code-yeongyu/oh-my-opencode)
 - [OpenCode Zen](https://opencode.ai/zen)
